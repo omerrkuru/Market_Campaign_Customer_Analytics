@@ -26,3 +26,8 @@ This project aims to support data-driven marketing decisions by analyzing custom
 ## Dataset
 
 The dataset contains customer demographic information, income and family structure, product category spending, purchase channel behavior, previous campaign acceptance history, complaint information, and campaign response status.
+
+The target variable is:
+
+```text
+Response
